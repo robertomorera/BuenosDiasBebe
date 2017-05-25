@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BuenosDiasBebe</string>
+    <string name="titulo_app">Buenos Dias Bebe</string>
+    <string name="uso_app">Esta aplicación permite la recepción de una fotografía cada día según la hora configurada por el usuario.</string>
+    <string name="ajustes">Ajustes de la aplicación</string>
+    <string name="historico">Historico fotos recibidas</string>
+    <string name="titulo_dialog_salir">Aviso de aplicación</string>
+    <string name="mensaje_dialog_salir">¿Desea salir de la aplicación?</string>
+    <string name="literal_Si">Si</string>
+    <string name="literal_No">No</string>
+    <string name="literal_notificaciones">Habilitar recepción de notificaciones:</string>
+    <string name="literal_hora_alarma">Hora de recepción de notificaciones:</string>
+    <string name="literal_guardar_ajustes">Guardar ajustes</string>
+    <string name="literal_programar_alarma">Programar alarma</string>
+</resources>
